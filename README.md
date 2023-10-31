@@ -1,3 +1,3 @@
 # Coding-Raja-Technologies
-Resume-Generator is the first task given to me via the Coding Raja Technologies Virtual Internship Program
+Resume-Generator and Music-Player are the tasks given to me via the Coding Raja Technologies Virtual Internship Program
 
